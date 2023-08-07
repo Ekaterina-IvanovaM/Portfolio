@@ -4,9 +4,9 @@
 Необходимо построить модель машинного обучения, которая будет прогнозировать количество заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки. 
 
 ## Навыки и инструменты
-* **Python**
-* **Pandas**
-* **Matplotlib**
+* **python**
+* **pandas**
+* **matplotlib**
 * sklearn.ensemble.**RandomForestRegressor**
 * sklearn.linear_model.**LinearRegression**
 * sklearn.tree.**DecisionTreeRegressor**
